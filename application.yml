@@ -2,5 +2,10 @@ spring:
   cloud:
     config:
       uri: http://cloud-config
+      
+      
+      
+user :
+    role: dev
 
 
